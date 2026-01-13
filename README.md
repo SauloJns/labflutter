@@ -1,5 +1,4 @@
 <img width="150" height="150" alt="Tehokas Logo" src="https://github.com/user-attachments/assets/459d9cc4-ad45-46bb-a1f4-0687ad9e6924" />
-# Tehokas Checklist
 
 O **Tehokas Checklist** é um sistema web para gerenciamento de projetos e tarefas, com foco em organização, produtividade e visualização clara do andamento dos projetos.
 
